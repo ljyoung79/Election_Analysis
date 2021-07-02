@@ -30,6 +30,7 @@ The results of this audit show:
   
   Raymon Doane (received 3.1% of the vote with 11,606 votes cast)
   
+##Audit Results:
   
 Diana DeGette was the clear winner of this election with 73.8% (272,892) votes cast in her favor.
  
