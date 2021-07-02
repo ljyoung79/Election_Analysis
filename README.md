@@ -21,9 +21,13 @@ Software: Python, Visual Studio Code
 
 The results of this audit show:
 -There were 369,711 total votes cast in this election
+
 -There were 3 candidates:
+
   Charles Casper Stockham (received 23% of the vote with 85,213 votes cast)
+  
   Diana DeGette (received 73.8% of the vote with 272,892 votes cast)
+  
   Raymon Doane (received 3.1% of the vote with 11,606 votes cast)
   
   
