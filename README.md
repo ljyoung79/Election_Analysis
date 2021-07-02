@@ -1,6 +1,7 @@
 # Election_Analysis
 
 ##Project Overview
+
 The Colorado Board of Elections needs to complete an audit of election results for a recent local congressional election.
 
 The information needed from this audit are:
@@ -24,6 +25,8 @@ The results of this audit show:
   Charles Casper Stockham (received 23% of the vote with 85,213 votes cast)
   Diana DeGette (received 73.8% of the vote with 272,892 votes cast)
   Raymon Doane (received 3.1% of the vote with 11,606 votes cast)
+  
+  
 Diana DeGette was the clear winner of this election with 73.8% (272,892) votes cast in her favor.
  
   
