@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Project Overview
+Project Overview
 
 The Colorado Board of Elections needs to complete an audit of election results for a recent local congressional election.
 
@@ -12,12 +12,12 @@ The information needed from this audit are:
 4. To calculate the percentage of votes each candidate worn
 5. Determine the winner of the election based on the popular vote
 
-##Resources
+Resources
 
 Data source: election_results.csv
 Software: Python, Visual Studio Code
 
-##Summary
+Summary
 
 The results of this audit show:
 -There were 369,711 total votes cast in this election
@@ -30,7 +30,7 @@ The results of this audit show:
   
   Raymon Doane (received 3.1% of the vote with 11,606 votes cast)
   
-##Audit Results:
+Audit Results:
   
 Diana DeGette was the clear winner of this election with 73.8% (272,892) votes cast in her favor.
  
